@@ -22,7 +22,19 @@ Answer some questions
 Done!
 
 
-#### Using grunt in your new AngularJS project ####
+#### Using grunt to lint and test (default) in your new AngularJS project ####
+
+###### Install testacular ######
+``` bash
+$ npm install testacular -g
+```
+
+###### Add executable permission to test.sh script ######
+``` bash
+$ chmod +x scripts/test.sh
+```
+
+###### Gruuuuunt ######
 ``` bash
 $ grunt
 ```
@@ -31,7 +43,7 @@ $ grunt
 
 ## Release History ##
 
-2012/09/16 - v0.1.0 - Initial release
+2012/10/02 - v0.1.0 - Initial release
 
 
 ## License
