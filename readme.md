@@ -1,8 +1,10 @@
 Grunt Angular Seed.
 
-Boilerplate to generate grunt init plugins that will generate grunt projects.
+[Grunt](https://github.com/cowboy/grunt) plugin to generate [Angular-Seed](https://github.com/angular/angular-seed) projects.
 
-This work is based in [Backbone Boilerplate framework tool](https://github.com/backbone-boilerplate/grunt-bbb) from [Tim Branyen](https://github.com/tbranyen)
+Created using [Grunt init plugin](https://npmjs.org/package/grunt-init-plugin).
+
+Angular-Seed version v1.0.2 is used.
 
 ## Getting Started ##
 
@@ -11,30 +13,25 @@ This work is based in [Backbone Boilerplate framework tool](https://github.com/b
 $ npm install -g grunt-angular-seed
 ```
 
-#### Create a new grunt init template ####
+#### Create a new AngularJS project  ####
 ``` bash
 $ grunt-angular-seed init
 ```
 Answer some questions
 
-#### Add some file in ####
+Done!
+
+
+#### Using grunt in your new AngularJS project ####
 ``` bash
-$ /tasks/init/grunt-angular-seed/root
+$ grunt
 ```
 
-#### To run in development environment ####
-``` bash
-$ npm link
-```
-
-``` bash
-$ grunt-angular-seed init
-```
 
 
 ## Release History ##
 
-2012/09/09 - v0.1.0 - Preview release
+2012/09/16 - v0.1.0 - Initial release
 
 
 ## License
