@@ -1,5 +1,6 @@
-## PLEASE, USE http://yeoman.io/
-
+#### This project was discontinued in favor of [Yeoman](http://yeoman.io)
+#### Tell me, if you see any reason to continue with this project, thanks! 
+***
 
 Grunt Angular Seed.
 
