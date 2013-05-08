@@ -1,3 +1,6 @@
+## PLEASE, USE http://yeoman.io/
+
+
 Grunt Angular Seed.
 
 [Grunt](https://github.com/cowboy/grunt) plugin to generate [Angular-Seed](https://github.com/angular/angular-seed) projects.
@@ -48,3 +51,5 @@ $ grunt
 
 ## License
 Copyright (c) 2012 Rodrigo Valerio Licensed under the MIT license.
+
+## PLEASE, USE http://yeoman.io/
