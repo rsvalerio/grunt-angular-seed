@@ -1,4 +1,4 @@
-#### This project was discontinued in favor of [Yeoman](http://yeoman.io)
+#### This project is no longer supported, please consider using [Yeoman](http://yeoman.io)
 #### Tell me, if you see any reason to continue with this project, thanks! 
 ***
 
@@ -53,4 +53,5 @@ $ grunt
 ## License
 Copyright (c) 2012 Rodrigo Valerio Licensed under the MIT license.
 
-## PLEASE, USE http://yeoman.io/
+#### This project is no longer supported, please consider using [Yeoman](http://yeoman.io)
+#### Tell me, if you see any reason to continue with this project, thanks! 
