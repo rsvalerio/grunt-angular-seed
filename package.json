@@ -1,7 +1,7 @@
 {
   "name": "grunt-angular-seed",
   "description": "Grunt Angular Seed Init Template",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/rsvalerio/grunt-angular-seed",
   "author": {
     "name": "Rodrigo Valerio",
